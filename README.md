@@ -1,2 +1,6 @@
 # hello-world
-just another respository
+Hi people!
+Jay here,am interested in web development.
+I like html5 and css3.
+
+
